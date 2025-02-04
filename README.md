@@ -1,2 +1,2 @@
 # RustReview1
-Rust code from a course on Secure Software Development. This RustReviewExam1 contains Rust programming language constructs and concepts. 
+Rust code from a course on secure software development. Contains Rust programming language codig examples of constructs and concepts. 
